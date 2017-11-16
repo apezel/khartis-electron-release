@@ -3,5 +3,10 @@
     "update": "https://github.com/apezel/khartis-electron-release/releases/download/khartis-v2.0.0/release.json",
     "install": "https://github.com/apezel/khartis-electron-release/releases/download/khartis-v2.0.0/khartis-2.0.0.dmg",
     "version": "2.0.0"
+  },
+  "winSquirrel-x64-prod": {
+    "update": "https://github.com/apezel/khartis-electron-release/releases/download/khartis-v2.0.0/khartis-2.0.0-full.nupkg",
+    "install": "https://github.com/apezel/khartis-electron-release/releases/download/khartis-v2.0.0/khartis-2.0.0.Setup.exe",
+    "version": "2.0.0"
   }
 }
